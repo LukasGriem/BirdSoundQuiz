@@ -3,7 +3,6 @@ from random import randint
 import requests
 import matplotlib.pyplot as plt
 import pandas as pd
-import vlc
 from PIL import Image
 import urllib.request
 import getpass
